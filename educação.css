@@ -1,0 +1,43 @@
+nav{
+    background-color: #ff9d00;
+    height: 80px;
+}
+.logo3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.input{
+    text-align: center;
+    margin:60px;
+    
+}
+body{
+    background-color: rgba(214, 213, 139, 0.651);
+}
+.navlabel{
+    margin-top: 10px;
+    }
+.card{
+    margin-bottom: 10px;
+    background-color: rgba(255, 255, 255, 0.897);
+    border-radius: 15px;
+}
+.botao5{
+    background-color: #fd7dcc;
+}
+.titulo{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    margin-bottom: 25px;
+    background-color: #4b6919;
+}
+@media only screen and (min-width: 300px) and (max-width: 600px){
+
+    .input{
+        text-align: center;
+        margin:30px
+    }
+    
+}
